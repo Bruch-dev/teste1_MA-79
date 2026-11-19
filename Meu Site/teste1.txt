@@ -1,5 +1,5 @@
 print(f'Você deseja dar "oi" para o py ou js')
-res = int(input(f'1- py e 2- js')
+res = int(input(f'1- py e 2- js'))
 
 if res == 1:
 	print(f'Hello PYTHON')
